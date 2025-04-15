@@ -18,10 +18,9 @@ h2 {
 h3 {
     font-size: larger;
     font-style: italic;
-    text-align: center;
 }
 
-p {
+p, li {
     font-size: small;
 
 }
