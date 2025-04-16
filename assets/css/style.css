@@ -1,4 +1,29 @@
+body {
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black
+}
+
 h1 {
     color :black;
     font-size: large;
+    text-align: center;
 }
+
+h2 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: larger;
+    font-style: italic;
+}
+
+p, li {
+    font-size: small;
+
+}
+
+
+
